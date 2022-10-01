@@ -1,0 +1,12 @@
+.wrapper
+{
+  background-color:#FF74B1;
+justify-content: center;
+text-align: center;
+gap: 2rem;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: bold;
+  color: beige;
+}

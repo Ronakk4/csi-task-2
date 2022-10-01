@@ -1,0 +1,25 @@
+.card{
+    background-color: #FFD6EC;
+    width: 350px;
+border: 20px;    
+    padding: auto;
+    text-align: center;
+box-shadow: 5px ;
+}
+.btn
+{
+    border-radius: 6px;
+    
+    border-color: blueviolet;
+    text-align: right;
+    width: max-content;
+}
+.fa-solid fa-bookmark{
+    color: aquamarine;
+}
+.re{
+    background-color: #4C0033;
+    
+   
+
+}
